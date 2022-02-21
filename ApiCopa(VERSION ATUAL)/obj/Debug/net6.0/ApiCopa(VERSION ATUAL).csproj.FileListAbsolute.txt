@@ -1,0 +1,30 @@
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\appsettings.json
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\ApiCopa(VERSION ATUAL).exe
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\ApiCopa(VERSION ATUAL).deps.json
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\ApiCopa(VERSION ATUAL).runtimeconfig.json
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\ApiCopa(VERSION ATUAL).dll
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\ref\ApiCopa(VERSION ATUAL).dll
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\ApiCopa(VERSION ATUAL).pdb
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\ApiCopa(VERSION ATUAL).csproj.AssemblyReference.cache
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\ApiCopa(VERSION ATUAL).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\ApiCopa(VERSION ATUAL).AssemblyInfoInputs.cache
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\ApiCopa(VERSION ATUAL).AssemblyInfo.cs
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\ApiCopa(VERSION ATUAL).csproj.CoreCompileInputs.cache
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\ApiCopa(VERSION ATUAL).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\ApiCopa(VERSION ATUAL).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\scopedcss\bundle\ApiCopa(VERSION ATUAL).styles.css
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\ApiCopa(VERSION ATUAL).csproj.CopyComplete
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\ApiCopa(VERSION ATUAL).dll
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\ref\ApiCopa(VERSION ATUAL).dll
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\ApiCopa(VERSION ATUAL).pdb
+C:\Users\lojs\source\repos\ApiCopa(VERSION ATUAL)\ApiCopa(VERSION ATUAL)\obj\Debug\net6.0\ApiCopa(VERSION ATUAL).genruntimeconfig.cache
